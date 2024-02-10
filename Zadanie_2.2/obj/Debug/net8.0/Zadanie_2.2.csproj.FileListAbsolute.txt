@@ -1,0 +1,15 @@
+d:\progrsmdsf\Zadanie_2.2\bin\Debug\net8.0\Zadanie_2.2.exe
+d:\progrsmdsf\Zadanie_2.2\bin\Debug\net8.0\Zadanie_2.2.deps.json
+d:\progrsmdsf\Zadanie_2.2\bin\Debug\net8.0\Zadanie_2.2.runtimeconfig.json
+d:\progrsmdsf\Zadanie_2.2\bin\Debug\net8.0\Zadanie_2.2.dll
+d:\progrsmdsf\Zadanie_2.2\bin\Debug\net8.0\Zadanie_2.2.pdb
+d:\progrsmdsf\Zadanie_2.2\obj\Debug\net8.0\Zadanie_2.2.GeneratedMSBuildEditorConfig.editorconfig
+d:\progrsmdsf\Zadanie_2.2\obj\Debug\net8.0\Zadanie_2.2.AssemblyInfoInputs.cache
+d:\progrsmdsf\Zadanie_2.2\obj\Debug\net8.0\Zadanie_2.2.AssemblyInfo.cs
+d:\progrsmdsf\Zadanie_2.2\obj\Debug\net8.0\Zadanie_2.2.csproj.CoreCompileInputs.cache
+d:\progrsmdsf\Zadanie_2.2\obj\Debug\net8.0\Zadanie_2.2.sourcelink.json
+d:\progrsmdsf\Zadanie_2.2\obj\Debug\net8.0\Zadanie_2.2.dll
+d:\progrsmdsf\Zadanie_2.2\obj\Debug\net8.0\refint\Zadanie_2.2.dll
+d:\progrsmdsf\Zadanie_2.2\obj\Debug\net8.0\Zadanie_2.2.pdb
+d:\progrsmdsf\Zadanie_2.2\obj\Debug\net8.0\Zadanie_2.2.genruntimeconfig.cache
+d:\progrsmdsf\Zadanie_2.2\obj\Debug\net8.0\ref\Zadanie_2.2.dll
